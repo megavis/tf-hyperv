@@ -1,7 +1,7 @@
-/.terraform.lock.hcl
-/.terraform
-/.idea
-/terraform.exe
-/terraform.tfstate
-/.env
 /variables.tfvars
+.idea
+.terraform.lock.hcl
+.terraform
+terraform.exe
+terraform.tfstate
+terraform.tfstate.backup
